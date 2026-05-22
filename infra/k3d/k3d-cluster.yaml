@@ -1,3 +1,6 @@
+# Copyright (c) 2026 Armen Suri
+# SPDX-License-Identifier: MIT
+
 apiVersion: k3d.io/v1alpha5
 kind: Simple
 
